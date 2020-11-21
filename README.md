@@ -1,1 +1,1 @@
-WT based spring security REST API by Eugene Suleimanov
+JWT based spring security REST API by Eugene Suleimanov
